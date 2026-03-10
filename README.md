@@ -2,3 +2,6 @@
 
 ok-- i seem to have created a badge
 
+# DevDemo2
+
+![Python CI](https://github.com/CorteZ314/DevDemo2/actions/workflows/python-ci.yml/badge.svg)
